@@ -18,7 +18,7 @@ public class Main {
     public static boolean ENFORCE_CONNECTIVITY = false;
     public static int TRANSFER_TIME = 5;
     public static int TIMEOUT_MILLIS = 10000;
-    public static String METRO_FILE = "./data/london.json";
+    public static String METRO_FILE = "../data/london.json";
     public static BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
     public static Gson gson = new GsonBuilder().setPrettyPrinting()
