@@ -1,0 +1,343 @@
+{
+  "Linka A": {
+    "0": {
+      "name": "Nemocnice Motol",
+      "transfer": [],
+      "time": 5
+    },
+    "1": {
+      "name": "Petriny",
+      "transfer": [],
+      "time": 5
+    },
+    "2": {
+      "name": "Nadrazi Veleslavin",
+      "transfer": [],
+      "time": 3
+    },
+    "3": {
+      "name": "Borislavka",
+      "transfer": [],
+      "time": 3
+    },
+    "4": {
+      "name": "Dejvicka",
+      "transfer": [],
+      "time": 4
+    },
+    "5": {
+      "name": "Hradcanska",
+      "transfer": [],
+      "time": 4
+    },
+    "6": {
+      "name": "Malostranska",
+      "transfer": [],
+      "time": 1
+    },
+    "7": {
+      "name": "Staromestska",
+      "transfer": [],
+      "time": 7
+    },
+    "8": {
+      "name": "Mustek",
+      "transfer": [
+        {
+          "line": "Linka B",
+          "station": "Mustek"
+        }
+      ],
+      "time": 8
+    },
+    "9": {
+      "name": "Muzeum",
+      "transfer": [
+        {
+          "line": "Linka C",
+          "station": "Muzeum"
+        }
+      ],
+      "time": 5
+    },
+    "10": {
+      "name": "Namesti Miru",
+      "transfer": [],
+      "time": 7
+    },
+    "11": {
+      "name": "Jiriho z Podebrad",
+      "transfer": [],
+      "time": 5
+    },
+    "12": {
+      "name": "Flora",
+      "transfer": [],
+      "time": 7
+    },
+    "13": {
+      "name": "Zelivskeho",
+      "transfer": [],
+      "time": 1
+    },
+    "14": {
+      "name": "Strasnicka",
+      "transfer": [],
+      "time": 7
+    },
+    "15": {
+      "name": "Skalka",
+      "transfer": [],
+      "time": 2
+    },
+    "16": {
+      "name": "Depo Hostivar",
+      "transfer": [],
+      "time": null
+    }
+  },
+  "Linka B": {
+    "0": {
+      "name": "Cerny Most",
+      "transfer": [],
+      "time": 3
+    },
+    "1": {
+      "name": "Rajska zahrada",
+      "transfer": [],
+      "time": 5
+    },
+    "2": {
+      "name": "Hloubetin",
+      "transfer": [],
+      "time": 4
+    },
+    "3": {
+      "name": "Kolbenova",
+      "transfer": [],
+      "time": 1
+    },
+    "4": {
+      "name": "Vysocanska",
+      "transfer": [],
+      "time": 6
+    },
+    "5": {
+      "name": "Ceskomoravska",
+      "transfer": [],
+      "time": 5
+    },
+    "6": {
+      "name": "Palmovka",
+      "transfer": [],
+      "time": 7
+    },
+    "7": {
+      "name": "Invalidovna",
+      "transfer": [],
+      "time": 5
+    },
+    "8": {
+      "name": "Krizikova",
+      "transfer": [],
+      "time": 1
+    },
+    "9": {
+      "name": "Florenc",
+      "transfer": [
+        {
+          "line": "Linka C",
+          "station": "Florenc"
+        }
+      ],
+      "time": 5
+    },
+    "10": {
+      "name": "Namesti Republiky",
+      "transfer": [],
+      "time": 3
+    },
+    "11": {
+      "name": "Mustek",
+      "transfer": [
+        {
+          "line": "Linka A",
+          "station": "Mustek"
+        }
+      ],
+      "time": 7
+    },
+    "12": {
+      "name": "Narodni trida",
+      "transfer": [],
+      "time": 3
+    },
+    "13": {
+      "name": "Karlovo namesti",
+      "transfer": [],
+      "time": 4
+    },
+    "14": {
+      "name": "Andel",
+      "transfer": [],
+      "time": 3
+    },
+    "15": {
+      "name": "Smichovske nadrazi",
+      "transfer": [],
+      "time": 3
+    },
+    "16": {
+      "name": "Radlicka",
+      "transfer": [],
+      "time": 4
+    },
+    "17": {
+      "name": "Jinonice",
+      "transfer": [],
+      "time": 7
+    },
+    "18": {
+      "name": "Nove Butovice",
+      "transfer": [],
+      "time": 2
+    },
+    "19": {
+      "name": "Hurka",
+      "transfer": [],
+      "time": 7
+    },
+    "20": {
+      "name": "Luziny",
+      "transfer": [],
+      "time": 5
+    },
+    "21": {
+      "name": "Luka",
+      "transfer": [],
+      "time": 6
+    },
+    "22": {
+      "name": "Stodulky",
+      "transfer": [],
+      "time": 7
+    },
+    "23": {
+      "name": "Zlicin",
+      "transfer": [],
+      "time": null
+    }
+  },
+  "Linka C": {
+    "0": {
+      "name": "Letnany",
+      "transfer": [],
+      "time": 3
+    },
+    "1": {
+      "name": "Prosek",
+      "transfer": [],
+      "time": 7
+    },
+    "2": {
+      "name": "Strizkov",
+      "transfer": [],
+      "time": 5
+    },
+    "3": {
+      "name": "Ladvi",
+      "transfer": [],
+      "time": 4
+    },
+    "4": {
+      "name": "Kobylisy",
+      "transfer": [],
+      "time": 5
+    },
+    "5": {
+      "name": "Nadrazi Holesovice",
+      "transfer": [],
+      "time": 7
+    },
+    "6": {
+      "name": "Vltavska",
+      "transfer": [],
+      "time": 2
+    },
+    "7": {
+      "name": "Florenc",
+      "transfer": [
+        {
+          "line": "Linka B",
+          "station": "Florenc"
+        }
+      ],
+      "time": 7
+    },
+    "8": {
+      "name": "Hlavni nadrazi",
+      "transfer": [],
+      "time": 2
+    },
+    "9": {
+      "name": "Muzeum",
+      "transfer": [
+        {
+          "line": "Linka A",
+          "station": "Muzeum"
+        }
+      ],
+      "time": 5
+    },
+    "10": {
+      "name": "I.P.Pavlova",
+      "transfer": [],
+      "time": 5
+    },
+    "11": {
+      "name": "Vysehrad",
+      "transfer": [],
+      "time": 4
+    },
+    "12": {
+      "name": "Prazskeho povstani",
+      "transfer": [],
+      "time": 7
+    },
+    "13": {
+      "name": "Pankrac",
+      "transfer": [],
+      "time": 5
+    },
+    "14": {
+      "name": "Budejovicka",
+      "transfer": [],
+      "time": 5
+    },
+    "15": {
+      "name": "Kacerov",
+      "transfer": [],
+      "time": 4
+    },
+    "16": {
+      "name": "Roztyly",
+      "transfer": [],
+      "time": 7
+    },
+    "17": {
+      "name": "Chodov",
+      "transfer": [],
+      "time": 6
+    },
+    "18": {
+      "name": "Opatov",
+      "transfer": [],
+      "time": 5
+    },
+    "19": {
+      "name": "Haje",
+      "transfer": [],
+      "time": null
+    }
+  }
+}
