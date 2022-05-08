@@ -10,7 +10,11 @@ Programming languages..:  Java 11 + Google GSON library
 Knowledge used.........:  MVC pattern, Command pattern, Gradle, Graphs, Trees, LinkedList, PriorityQueue, Breadth-First Search (BFS), Dijkstra Algorithm, Serialization
 ```
 
-_Living in a big city, it's hard to imagine traveling around without the help of public transport. Especially in a place like London with its rich history of the underground and vast amount of metro lines and stations. But have you ever wondered how does the app know the fastest route from one station to another? HyperMetro will make your journey a breeze and share the secrets of how route building works._
+  
+  
+>_Living in a big city, it's hard to imagine traveling around without the help of public transport. Especially in a place like London with its rich history of the underground and vast amount of metro lines and stations. But have you ever wondered how does the app know the fastest route from one station to another? HyperMetro will make your journey a breeze and share the secrets of how route building works._
+  
+  
 						
 This is my ninth Java project and the heaviest one to date - it took me almost a month to finish it. This is a project from JetBrains Academy. Working on HyperMetro I've got acquainted with directed weigthed graphs and just graphs in general - one of most essential data structures. I have also learned and implemented two graph traversing algorithms - **breadth-first search** and **Dijkstra algorithm** using LinkedLists and PriorityQueues, utilized Google's GSON library to deal with JSON files, briefly used Gradle, exercised usage of design patterns and got a taste of dealing with constantly changing technical requirements.
 
