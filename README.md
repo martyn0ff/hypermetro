@@ -1,6 +1,5 @@
 ![hypermetro application design](./images/hyper-metro-banner.jpg)
 
-# Hyper Metro
 ```
 Project name...........:  Hyper Metro
 Completion time........:  27 days
